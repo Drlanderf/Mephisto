@@ -7,7 +7,7 @@ MP.name = "Mephisto"
 MP.simpleName = "Mephisto"
 MP.displayName =
 "|ca5cd84M|caca665E|cae7A49P|ca91922H|cc2704DI|cd8b080S|ce1c895T|ce4d09dO|"
-MP.version = "2.2.5"
+MP.version = "2.2.6"
 MP.zones = {}
 MP.currentIndex = 0
 
