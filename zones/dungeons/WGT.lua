@@ -17,9 +17,12 @@ WGT.bosses = {
 		name = GetString(MP_WGT_THE_ADJUDICATOR),
 	},
 	[3] = {
-		name = GetString(MP_WGT_THE_PLANAR_INHIBITOR),
+		name = GetString(MP_WGT_THE_ADJUDICATOR),
 	},
 	[4] = {
+		name = GetString(MP_WGT_THE_PLANAR_INHIBITOR),
+	},
+	[5] = {
 		name = GetString(MP_WGT_MOLAG_KENA),
 	},
 }

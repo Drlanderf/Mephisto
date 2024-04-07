@@ -296,6 +296,7 @@ local language = {
 	-- DUNGEONS
 	MP_WGT_NAME = "White Gold Tower",
 	MP_WGT_THE_ADJUDICATOR  = "The Adjudicator",
+	MP_WGT_TRIBOSS  = "",
 	MP_WGT_THE_PLANAR_INHIBITOR  = "The Planar Inhibitor",
 	MP_WGT_MOLAG_KENA = "Molag Kena",
 
@@ -486,7 +487,7 @@ local language = {
 	MP_BS_SCB="Urvel Drath",
 
 	MP_SH_NAME="Scrivener's Hall",
-	MP_SH_B1="Ritemaster Maqri",
+	MP_SH_B1="Riftmaster Maqri",
 	MP_SH_B2="Ozezan the Inferno",
 	MP_SH_B3="Valinna",
 

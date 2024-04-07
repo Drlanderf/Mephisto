@@ -445,7 +445,7 @@ local language = {
 	MP_BS_SCB="Urvel Drath",
 
 	MP_SH_NAME="Scrivener's Hall",
-	MP_SH_B1="Ritemaster Maqri",
+	MP_SH_B1="Riftmaster Maqri",
 	MP_SH_B2="Ozezan the Inferno",
 	MP_SH_B3="Valinna",
 
